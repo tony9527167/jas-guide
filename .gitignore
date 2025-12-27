@@ -1,0 +1,18 @@
+# node.js 
+node_modules/
+cache/
+dist/
+
+# macOS 
+.DS_Store
+
+# vector.dev
+checkpoints.json
+
+# temporary files
+*.bak
+.*.md
+*.txt
+
+# development configuration files
+dev.*.*
