@@ -1,3 +1,3 @@
-# JA2 Wildfire Reference - Screenshots
+# Wildfire Ref - Screenshots
 
 TBD.

@@ -1,4 +1,4 @@
-# JA2 v1.12 Reference - Sectors
+# v1.12 Ref - Sectors
 
 ![map of arulco](/public/ja2/ja2-map-of-arulco.png)
 

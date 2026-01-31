@@ -1,4 +1,4 @@
-# JA2 v1.12 Reference - Items
+# v1.12 Ref - Items
 
 ## Explosives
 

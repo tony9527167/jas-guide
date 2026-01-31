@@ -1,4 +1,4 @@
-# JA2 Wildfire Reference - Weapons
+# Wildfire Ref - Weapons
 
 Notes
 

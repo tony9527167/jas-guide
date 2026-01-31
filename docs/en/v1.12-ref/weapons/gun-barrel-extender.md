@@ -1,4 +1,4 @@
-# JA2 v1.12 Reference - Gun Barrel Extended
+# v1.12 Ref - Gun Barrel Extended
 
 Gun Barrel Extended
 

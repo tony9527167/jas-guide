@@ -1,4 +1,4 @@
-# JA2 v1.12 Reference - Automag III
+# v1.12 Ref - Automag III
 
 Automag  
 Automag III

@@ -1,4 +1,4 @@
-# JA2 v1.12 Reference - Rod & Spring
+# v1.12 Ref - Rod & Spring
 
 Rod & Spring
 

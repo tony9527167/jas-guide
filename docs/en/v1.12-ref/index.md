@@ -1,4 +1,4 @@
-# Tony's Jagged Alliance 2 v1.12 Reference
+# JA2 v1.12 Reference
 
 Arulco is a fictional island nation where the events of Jagged Alliance 2 take place.
 The goal of the game is to use your mercenaries to depose Deidranna, the dictator of Arulco.

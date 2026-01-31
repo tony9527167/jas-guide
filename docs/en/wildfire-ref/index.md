@@ -1,4 +1,4 @@
-# Tony's Jagged Alliance 2: Wildfire Guide Reference
+# Wildfire v6.04 Reference
 
 Jagged Alliance 2: Wildfire was published in 2004 an official expansion pack of Jagged Alliance 2.
 Comparing to the original Jagged Alliance 2, Wildfire was instead directed designing revamped environments, new items and stronger enemies.

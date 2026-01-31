@@ -1,4 +1,4 @@
-# JA2 v1.12 Reference - Weapons
+# v1.12 Ref - Weapons
 
 Notes
 

@@ -1,4 +1,4 @@
-# JA2 v1.12 Reference - Game Options
+# v1.12 Ref - Game Options
 
 | Difficulty Level | Initial Funding | Enemy Squad Size | Train Militia Requires Loyal & Cost |
 | ---------------- | --------------- | ---------------- | ----------------------------------- |

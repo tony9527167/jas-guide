@@ -1,4 +1,4 @@
-# JA2 Wildfire Reference - Bobby Ray's Guns and Things
+# Wildfire Ref - Bobby Ray's Guns and Things
 
 Bobby Ray is a online store available after you control B13 Drassen Airport or N3 Meduna Airport.
 

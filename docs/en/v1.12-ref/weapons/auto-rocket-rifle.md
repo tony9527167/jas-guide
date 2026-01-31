@@ -1,4 +1,4 @@
-# JA2 v1.12 Reference - Auto Rocket Rifle
+# v1.12 Ref - Auto Rocket Rifle
 
 Auto Rocket Rifle
 

@@ -1,4 +1,4 @@
-# JA2 Wildfire Reference - Bugs
+# Wildfire Ref - Bugs
 
 ## Compatibility Issues
 

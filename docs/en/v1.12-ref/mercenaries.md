@@ -1,4 +1,4 @@
-# JA2 v1.12 Reference - Mercenaries
+# v1.12 Ref - Mercenaries
 
 Total squad members on offer: AIM (40) + MERC (6) + NPCs (13) = 49.
 

@@ -1,4 +1,4 @@
-# JA2 v1.12 Reference - Attributes Skills and Traits
+# v1.12 Ref - Attributes Skills and Traits
 
 ## Attributes
 

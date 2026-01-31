@@ -1,4 +1,4 @@
-# JA2 v1.12 Reference - Bugs
+# v1.12 Ref - Bugs
 
 ## Compatibility Issues
 

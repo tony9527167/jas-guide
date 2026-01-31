@@ -1,4 +1,4 @@
-# JA2 v1.12 Reference - Bobby Ray's Guns and Things
+# v1.12 Ref - Bobby Ray's Guns and Things
 
 Bobby Ray is a online store available after you control B13 Drassen Airport or N3 Meduna Airport.
 

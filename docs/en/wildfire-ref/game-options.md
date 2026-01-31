@@ -1,4 +1,4 @@
-# JA2 Wildfire Reference - Game Options
+# Wildfire Ref - Game Options
 
 | Difficulty Level | Initial Funding | Enemy Squad Size      | Train Militia Requires Loyal & Cost |
 | ---------------- | --------------- | --------------------- | ----------------------------------- |

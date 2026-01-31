@@ -1,4 +1,4 @@
-# JA2 Wildfire Reference - Mercenaries
+# Wildfire Ref - Mercenaries
 
 Total squad members on offer: AIM (40) + MERC (14) + NPCs (14) = 68.
 

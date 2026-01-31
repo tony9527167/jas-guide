@@ -1,4 +1,4 @@
-# JA2 Wildfire Reference - Sectors
+# Wildfire Ref - Sectors
 
 ![map of arulco](/public/ja2wf/ja2wf-map-of-arulco.png)
 

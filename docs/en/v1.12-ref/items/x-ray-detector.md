@@ -1,4 +1,4 @@
-# JA2 v1.12 Reference - X-Ray Detector
+# v1.12 Ref - X-Ray Detector
 
 This homemade x-ray device looks like it will actually function, flashing a vibrating x-ray pulse and crudely displaying the results on its LCD. Batteries required.
 

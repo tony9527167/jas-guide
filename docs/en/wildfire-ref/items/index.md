@@ -1,4 +1,4 @@
-# JA2 Wildfire Reference - Items
+# Wildfire Ref - Items
 
 ## Explosives
 

@@ -1,4 +1,4 @@
-# JA2 Wildfire Reference - Attributes Skills and Traits
+# Wildfire Ref - Attributes Skills and Traits
 
 ## Attributes
 

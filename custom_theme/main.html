@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 
 {% block htmltitle %}
-<title>Custom title goes here</title>
+<title>{% if page.title %}{{ page.title }} - {% endif %}{{ config.site_name }}</title>
 {% endblock %}
 
 {% block footer %}

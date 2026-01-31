@@ -1,4 +1,4 @@
-# JA2 v1.12 Reference - CAWS
+# v1.12 Ref - CAWS
 
 CAWS
 
