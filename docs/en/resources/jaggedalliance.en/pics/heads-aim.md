@@ -1,0 +1,17 @@
+# JA2 - A.I.M. Mercenaries
+
+| -                                                            | -                                                          | -                                                          | -                                                            |
+| ------------------------------------------------------------ | ---------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------ |
+| ![Barry](/public/jaggedalliance.de/pics/heads/Barry.jpg)     | ![Blood](/public/jaggedalliance.de/pics/heads/Blood.jpg)   | ![Lynx](/public/jaggedalliance.de/pics/heads/Lynx.jpg)     | ![Grizzly](/public/jaggedalliance.de/pics/heads/Grizzly.jpg) |
+| ![Vicki](/public/jaggedalliance.de/pics/heads/Vicki.jpg)     | ![Trevor](/public/jaggedalliance.de/pics/heads/Trevor.jpg) | ![Grunty](/public/jaggedalliance.de/pics/heads/Grunty.jpg) | ![Ivan](/public/jaggedalliance.de/pics/heads/Ivan.jpg)       |
+| ![Steroid](/public/jaggedalliance.de/pics/heads/Steroid.jpg) | ![Igor](/public/jaggedalliance.de/pics/heads/Igor.jpg)     | ![Shadow](/public/jaggedalliance.de/pics/heads/Shadow.jpg) | ![Red](/public/jaggedalliance.de/pics/heads/Red.jpg)         |
+| ![Reaper](/public/jaggedalliance.de/pics/heads/Reaper.jpg)   | ![Fidel](/public/jaggedalliance.de/pics/heads/Fidel.jpg)   | ![Fox](/public/jaggedalliance.de/pics/heads/Fox.jpg)       | ![Sidney](/public/jaggedalliance.de/pics/heads/Sidney.jpg)   |
+| ![Gus](/public/jaggedalliance.de/pics/heads/Gus.jpg)         | ![Buns](/public/jaggedalliance.de/pics/heads/Buns.jpg)     | ![Ice](/public/jaggedalliance.de/pics/heads/Ice.jpg)       | ![Spider](/public/jaggedalliance.de/pics/heads/Spider.jpg)   |
+
+| -                                                          | -                                                        | -                                                            | -                                                              |
+| ---------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------------- |
+| ![Cliff](/public/jaggedalliance.de/pics/heads/Cliff.jpg)   | ![Bull](/public/jaggedalliance.de/pics/heads/Bull.jpg)   | ![Hitman](/public/jaggedalliance.de/pics/heads/Hitman.jpg)   | ![Buzz](/public/jaggedalliance.de/pics/heads/Buzz.jpg)         |
+| ![Raider](/public/jaggedalliance.de/pics/heads/Raider.jpg) | ![Raven](/public/jaggedalliance.de/pics/heads/Raven.jpg) | ![Static](/public/jaggedalliance.de/pics/heads/Static.jpg)   | ![Len](/public/jaggedalliance.de/pics/heads/Len.jpg)           |
+| ![Danny](/public/jaggedalliance.de/pics/heads/Danny.jpg)   | ![Magic](/public/jaggedalliance.de/pics/heads/Magic.jpg) | ![Stephen](/public/jaggedalliance.de/pics/heads/Stephan.jpg) | ![Scully](/public/jaggedalliance.de/pics/heads/Scully.jpg)     |
+| ![Malice](/public/jaggedalliance.de/pics/heads/Malice.jpg) | ![DrQ](/public/jaggedalliance.de/pics/heads/DrQ.jpg)     | ![Nails](/public/jaggedalliance.de/pics/heads/Nails.jpg)     | ![Thor](/public/jaggedalliance.de/pics/heads/Thor.jpg)         |
+| ![Scope](/public/jaggedalliance.de/pics/heads/Scope.jpg)   | ![Wolf](/public/jaggedalliance.de/pics/heads/Wolf.jpg)   | ![MD](/public/jaggedalliance.de/pics/heads/MD.jpg)           | ![Meltdown](/public/jaggedalliance.de/pics/heads/Meltdown.jpg) |

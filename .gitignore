@@ -1,0 +1,22 @@
+# node.js 
+node_modules/
+cache/
+dist/
+
+# macOS 
+.DS_Store
+
+# vector.dev
+checkpoints.json
+
+# temporary files
+*.bak
+.*.md
+*.txt
+*todo*
+
+# development configuration files
+dev.*.*
+
+# MkDocs documentation
+site*/

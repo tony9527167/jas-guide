@@ -1,0 +1,69 @@
+site_name: Tony's Jagged Alliance Series Systems & Tactics Guide
+site_url: https://jas-guide.pages.dev
+site_author: tony9527167
+copyright: Copyright &copy; 1999-present
+
+nav:
+  - Home: index.md
+
+  - JA2 Systems:
+      - Overview: en/system/index.md
+      - Version Differences: en/system/version-differences.md
+      - Combat Resolution: en/system/combat-resolution.md
+      - Stealth & Detection: en/system/stealth-and-detection.md
+      - Night Ops & Vision: en/system/night-ops-and-vision.md
+      - AI Behavior: en/system/ai-behavior.md
+
+  - Tactical Doctrine:
+      - Early Game: en/tactics/early-game.md
+      - Squad Composition: en/tactics/squad-composition.md
+      - Urban Combat: en/tactics/urban-combat.md
+      - Night Operations: en/tactics/night-ops.md
+      - Militia Strategy: en/tactics/militia-strategy.md
+
+  - v1.12 Reference:
+      - "Tony's Jagged Alliance 2 v1.12 Reference": en/v1.12-ref/index.md
+      - Game Options: en/v1.12-ref/game-options.md
+      - Attributes Skills and Traits: en/v1.12-ref/attrs-skills-and-traits.md
+      - Mercenaries: en/v1.12-ref/mercenaries.md
+      - Weapons: en/v1.12-ref/weapons/index.md
+      - Sectors: en/v1.12-ref/sectors.md
+      - Items: en/v1.12-ref/items/index.md
+      - Bobby Ray: en/v1.12-ref/bobby-bay.md
+      - Bugs: en/v1.12-ref/bugs.md
+
+  - Wildfire Reference:
+      - "Tony's Jagged Alliance 2: Wildfire Reference": en/wildfire-ref/index.md
+      - Game Options: en/wildfire-ref/game-options.md
+      - Attributes Skills and Traits: en/wildfire-ref/attrs-skills-and-traits.md
+      - Mercenaries: en/wildfire-ref/mercenaries.md
+      - Weapons: en/wildfire-ref/weapons/index.md
+      - Sectors: en/wildfire-ref/sectors.md
+      - Items: en/wildfire-ref/items/index.md
+      - Bobby Ray: en/wildfire-ref/bobby-bay.md
+      - Bugs: en/wildfire-ref/bugs.md
+
+  - Archive:
+      - Original Docs and Resources: en/resources/index.md
+      - Lost Developer Notes: en/resources/lost-dev-notes.md
+
+  - About:
+      - License: en/license.md
+      - Contributing: en/contributing.md
+
+  - "Youtube Channel @mygog99": https://www.youtube.com/@mygog99
+
+markdown_extensions:
+  - mdx_truly_sane_lists
+  - pymdownx.tilde
+  - pymdownx.smartsymbols:
+      ordinal_numbers: false
+  - toc:
+      permalink: true
+
+theme:
+  name: readthedocs
+  custom_dir: custom_theme/
+
+repo_url: https://github.com/tony9527167/jas-guide/
+edit_uri: edit/preview/docs/
