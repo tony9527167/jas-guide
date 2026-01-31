@@ -1,4 +1,6 @@
-LICENSE
+# LICENSE
+
+## Content License
 
 Tony's Jagged Alliance Series Systems & Tactics Guide © 1999 by tony9527167 is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) .
 
@@ -19,3 +21,15 @@ Mirrors are permitted, but modified versions, rewrites, or partial reuse
 outside of quotation are not allowed without explicit permission.
 
 Full license text: https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+## Code License
+
+MIT License
+
+Copyright (c) 1999 tony9527167
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the MkDocs build system,
+theme, and scripts), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish, distribute,
+sublicense, and/or sell copies of the Software.
