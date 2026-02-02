@@ -7,9 +7,11 @@ it is a long-running franchise known for its deep, turn-based tactical gameplay,
 
 ### Brief History of the Jagged Alliance Series
 
-**Jagged Alliance (1994)** : Developed by _Madlab Software_ and published by _Sir-Tech_, this first installment for MS-DOS established the core gameplay loop. Players were tasked with liberating the island of Metavira by hiring mercenaries and managing the local economy (harvesting medicinal sap) to fund their operations.
+**Jagged Alliance (1995)** : Developed by _Madlab Software_ and published by _Sir-Tech_, this first installment for MS-DOS established the core gameplay loop.
+Players were tasked with liberating the island of Metavira by hiring mercenaries and managing the local economy (harvesting medicinal sap) to fund their operations.
 
-**Jagged Alliance: Deadly Games (1995)** : Developed by _Sir-Tech_, this follow-up used the same engine but focused on a series of tactical, mission-based scenarios rather than a persistent open world campaign. It added a multiplayer mode and a map editor.
+**Jagged Alliance: Deadly Games (1996)** : Developed by _Sir-Tech_, this follow-up used the same engine but focused on a series of tactical,
+mission-based scenarios rather than a persistent open world campaign. It added a multiplayer mode and a map editor.
 
 **Jagged Alliance 2 Demo (1998)** : Developed by _Sir-Tech_, a official demo of Jagged Alliance 2.
 
