@@ -15,6 +15,7 @@ nav:
       - AI Behavior: en/system/ai-behavior.md
 
   - Tactical Doctrine:
+      - Overview: en/tactics/index.md
       - Early Game: en/tactics/early-game.md
       - Squad Composition: en/tactics/squad-composition.md
       - Urban Combat: en/tactics/urban-combat.md
