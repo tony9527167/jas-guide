@@ -1,10 +1,10 @@
 # v1.12 Ref - Game Options
 
-| Difficulty Level | Initial Funding | Enemy Squad Size | Train Militia Requires Loyal & Cost |
-| ---------------- | --------------- | ---------------- | ----------------------------------- |
-| Novice           | ?               | ?                | ?                                   |
-| Experienced      | $35,000         | 4~8, 10~13, 20   | ≥ 20%, $750                         |
-| Expert           | ?               | ?                | ?                                   |
+| Difficulty Level | Initial Funding | Enemy Squad Size | Train Militia Requires Loyal & Cost | Town Initial Loyal |
+| ---------------- | --------------- | ---------------- | ----------------------------------- | ------------------ |
+| Novice           | $45,000         | 3~, 10~,         | ≥ 20%, $750                         | ~16%               |
+| Experienced      | $35,000         | 4~8, 10~13, 20   | ≥ 20%, $750                         | ~16%               |
+| Expert           | $30,000         | 6~, 13~, 18~     | ≥ 20%, $750                         | ~8%                |
 
 Start game
 
@@ -12,7 +12,7 @@ Start game
 - login I.M.P. website with activation code: `xep624`
 - create your own mercenary base on I.M.P. Question
 
-If you create own mercenary with Night Ops and Stealthy skills, the gears should include:
+If you create own mercenary with Night Ops and Stealthy skills, the gear should include:
 
 - Kevlar Helmet
 - Flak Jacket
@@ -35,6 +35,14 @@ Suggested bonus points allocation:
 - Explosive 0
 - Mechanical 0
 - Medical 35
+
+## Skills & Default Gear
+
+| Skills                         | Default Gear                                                                      |
+| ------------------------------ | --------------------------------------------------------------------------------- |
+| Auto Weapons <br> Ambidextrous | H&K MP5K <br> 1st Aid Kit <br> Canteen                                            |
+| Night Ops <br> Ambidextrous    | H&K MP5K <br> 1st Aid Kit <br> Canteen <br> Break Light                           |
+| Night Ops (Expert)             | Beretta 93R <br> 1st Aid Kit <br> Canteen <br> Break Light <br> TNT <br> Tool Kit |
 
 ## Cheat Codes
 
