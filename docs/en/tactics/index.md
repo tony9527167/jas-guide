@@ -9,4 +9,4 @@
 
 A lot of these only became obvious to me because JA2 and Wildfire are so non-linear — the game really allows very different strategic approaches if you're willing to experiment. It took a lot of time, but that's also what made it so fun.
 
-So yeah, the name might evolve, and I definitely want to reflect that variety better over time 🙂
+So yeah, the name "Tactical Doctrine" might evolve, and I definitely want to reflect that variety better over time 🙂

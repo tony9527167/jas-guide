@@ -16,46 +16,45 @@ However, it is **not the only viable doctrine**.
 JA2 provides more than a dozen skills and a wide range of attribute combinations, allowing radically different play styles. For example:
 
 - Hand-to-hand + high Strength — brutal close-combat fighters
-- Knifing + Stealth + high Agility — silent killers and ambushers
-- Throwing + high Experience — grenadiers and tactical disruptor
-- Lockpicking + Electronics + high Mechanical — infiltration and sabotage specialists
+- Knifing + Stealthy + high Agility — silent killers and ambushers
+- Throwing + high Explosives — grenadiers and demolitionist
+- Lock picking + Electronics + high Mechanical — infiltration and sabotage specialists
 
 Your custom merc does not need to be perfect at everything.
 The real strength of JA2 comes from squad composition: other mercenaries can fill gaps, amplify strengths, or support specialized roles.
 
 One critical rule applies to all builds:
 
-> All attributes can be trained and improved later — except Wisdom and Experience Level.
-> Wisdom affects how fast all other attributes grow.
+All attributes can be trained and improved later — except Wisdom and Experience Level.
+Wisdom affects how fast all other attributes and level grow.
 
 For this reason, investing generously in **Wisdom** at character creation is always optimal.
 
 ## 2. Building Squads
 
-The player can control up to 18 mercenaries, which allows 3–6 active squads depending on size.
+The player can control up to 18 mercenaries, which allows 3–9 active squads depending on size.
 
 Each squad should be built around complementary roles, not identical soldiers. Examples:
 
 - Assault rifle + sniper + medic + mule
 - Two snipers + medic + mule
-- Heavy weapons + grenades + medic
+- Heavy weapon + grenadier + medic
 - Knife fighter + stealth scout + medic
+- and your style...
 
 Some example squad concepts:
 
 - Rebel squad: A balanced early-game force with strong loyalty bonuses.
   - Ira
   - Dimitri
-  - Miguel
   - Maddog
   - Grizzly
 
 - Custom doctrine squad: Designed for aggressive infiltration, explosives, and rapid assaults.
-  - Shank
+  - Shadow
   - Dynamo
   - Vince
   - Hamous
-  - Iggy
 
 The early game is where these doctrines are tested and refined.
 
@@ -73,8 +72,7 @@ Below are three proven doctrines.
 
 A slow but powerful approach focused on building elite mercs.
 
-Route example:
-Estoni → Maddog → Tixa → Dynamo → Maddog
+Route example: Estoni → Maddog → Tixa → Dynamo → Maddog
 
 The goal is to:
 
@@ -86,16 +84,12 @@ This produces extremely powerful squads that can attack almost any sector later.
 
 ### Doctrine B – Control of Arulco
 
-Instead of rushing the endgame, you conquer the country.
+Instead of rushing the endgame, you focus on conquering the entire country.
 
-- Capture all towns and all mines
-- Do **not** kill the Queen
-- Maintain 100% loyalty across Arulco
+- (in v1.12) Capture all towns and all mines, and **NOT** kill the queen, all town loyalty drops to 0
+- (in wildfire) Capture all towns and all mines except Meduna and the M2, M3, M4, M5, N6 sectors. Loyalty is preserved, making this doctrine especially powerful there.
 
-In **vanilla v1.12**, killing the Queen drops loyalty to 0 everywhere.
-In **Wildfire**, loyalty is preserved — making this doctrine especially powerful there.
-
-This turns the game into a long-term strategic sandbox.
+This transforms the game into a long-term strategic sandbox.
 
 ### Doctrine C – Fastest Victory
 
@@ -105,14 +99,14 @@ Core principles:
 
 - Stealthy + Night Ops mercs
 - Night assaults only
-- Capture sectors with high-value loot
+- Capture sectors (such as Grumm G2) with high-value loot
 - Avoid unnecessary fights
 
 Once strong gear is acquired, attack Meduna directly — often with elite mercs like Shadow — and end the war quickly.
 
 ## Closing
 
-The early game in JA2 is not about “the correct path”.
+The early game in JA2 is not about "the correct path".
 It is about choosing how you want to fight this war.
 
 JA2 and Wildfire reward experimentation, and many of the most interesting play styles only emerge after hundreds of hours of testing different doctrines.
